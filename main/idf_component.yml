@@ -4,4 +4,4 @@ dependencies:
   usb_host_hid: "^1.0.1"
   pwm_audio:
     version: "~1.1.0"
-    override_path: "../audio/pwm_audio"
+    override_path: "../../audio/pwm_audio"
